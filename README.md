@@ -19,7 +19,7 @@ docker pull nginx
 
 4- To run nginx image use the following command:
 ```
-docker run -d -p 31000:80 nginx.
+docker run -d -p 50000:80 nginx.
 ```
 
 5- To get container ID use the following command:
