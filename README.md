@@ -5,7 +5,7 @@
 The purpose of this project was to learn the basics of container and how to use docker commands by hosting website on NGINX container.
 
 ## Steps to host website on NGINX container:
-1- Download CoreOS.
+1- Download CoreOS ISO image.
 
 
 2- create VM using the downloaded CoreOS ISO image.
